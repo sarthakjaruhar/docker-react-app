@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Multi stage build of react app
+          Multi stage build of react app, learn react from here
         </p>
         <a
           className="App-link"
